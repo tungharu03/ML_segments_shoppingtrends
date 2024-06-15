@@ -1,0 +1,946 @@
+Customer ID,Age,Gender,Location,Subscription Status,Previous Purchases,Preferred Payment Method,Frequency of Purchases
+4,21,Male,Rhode Island,Yes,49,PayPal,7
+17,25,Male,Alabama,Yes,44,Debit Card,5
+21,21,Male,Louisiana,Yes,50,Cash,1
+24,31,Male,Oklahoma,Yes,40,Credit Card,7
+32,33,Male,West Virginia,Yes,45,Venmo,4
+33,36,Male,Kansas,Yes,37,Venmo,2
+35,36,Male,North Dakota,Yes,38,PayPal,3
+37,35,Male,Illinois,Yes,44,PayPal,6
+39,29,Male,Florida,Yes,44,Venmo,1
+45,39,Male,Kentucky,Yes,45,PayPal,7
+49,42,Male,Nevada,Yes,38,Cash,4
+53,42,Male,Alaska,Yes,26,Credit Card,7
+54,29,Male,Mississippi,Yes,35,Credit Card,7
+56,40,Male,South Carolina,Yes,49,Credit Card,2
+57,41,Male,Mississippi,Yes,46,Credit Card,7
+63,30,Male,Mississippi,Yes,31,Credit Card,6
+64,33,Male,Arizona,Yes,43,Credit Card,7
+71,22,Male,Alabama,Yes,32,Debit Card,1
+72,36,Male,Virginia,Yes,34,Bank Transfer,2
+78,22,Male,Delaware,Yes,36,Debit Card,6
+80,38,Male,Iowa,Yes,43,Bank Transfer,1
+84,36,Male,Texas,Yes,34,Bank Transfer,7
+87,24,Male,Nevada,Yes,47,Cash,5
+89,33,Male,Wyoming,Yes,35,Credit Card,4
+91,25,Male,South Carolina,Yes,29,Credit Card,4
+94,37,Male,Florida,Yes,46,Credit Card,7
+96,37,Male,Missouri,Yes,48,PayPal,4
+97,32,Male,Delaware,Yes,43,Venmo,1
+98,21,Male,Virginia,Yes,37,Cash,2
+100,26,Male,Missouri,Yes,33,Debit Card,3
+102,27,Male,North Dakota,Yes,50,Credit Card,5
+108,28,Male,Maryland,Yes,46,PayPal,6
+113,37,Male,Florida,Yes,28,PayPal,5
+120,38,Male,Wyoming,Yes,44,Cash,2
+123,40,Male,Washington,Yes,44,Cash,6
+125,44,Male,Nevada,Yes,50,PayPal,2
+127,43,Male,Mississippi,Yes,48,Cash,1
+128,24,Male,Mississippi,Yes,26,Credit Card,7
+130,24,Male,Pennsylvania,Yes,49,PayPal,5
+132,28,Male,Maine,Yes,46,Credit Card,7
+133,30,Male,New Mexico,Yes,42,PayPal,7
+143,37,Male,Nebraska,Yes,33,Credit Card,6
+146,24,Male,Missouri,Yes,44,Debit Card,3
+149,37,Male,Wyoming,Yes,47,Debit Card,2
+153,30,Male,South Carolina,Yes,42,Venmo,2
+157,35,Male,Missouri,Yes,40,Debit Card,2
+159,25,Male,Connecticut,Yes,50,Bank Transfer,4
+161,27,Male,Texas,Yes,34,Venmo,4
+174,25,Male,Hawaii,Yes,30,Cash,2
+175,41,Male,Vermont,Yes,37,Venmo,2
+178,21,Male,Kansas,Yes,47,Bank Transfer,4
+185,32,Male,Hawaii,Yes,40,Cash,6
+187,39,Male,Minnesota,Yes,31,Debit Card,2
+194,36,Male,North Dakota,Yes,29,Venmo,2
+197,38,Male,Washington,Yes,41,Credit Card,6
+201,25,Male,Pennsylvania,Yes,29,Venmo,4
+205,24,Male,Arizona,Yes,35,Cash,5
+215,24,Male,Hawaii,Yes,41,Cash,1
+221,39,Male,Arizona,Yes,48,Debit Card,6
+224,20,Male,Wyoming,Yes,34,PayPal,2
+234,19,Male,Arizona,Yes,27,Bank Transfer,1
+236,43,Male,New Jersey,Yes,31,Debit Card,3
+237,38,Male,North Dakota,Yes,39,PayPal,6
+242,36,Male,Delaware,Yes,43,Venmo,5
+252,21,Male,Wyoming,Yes,34,PayPal,2
+253,32,Male,Delaware,Yes,33,Venmo,6
+264,27,Male,Iowa,Yes,29,Venmo,4
+278,29,Male,Georgia,Yes,36,Bank Transfer,5
+280,23,Male,Arkansas,Yes,37,Bank Transfer,4
+289,30,Male,North Carolina,Yes,34,Venmo,5
+300,25,Male,Pennsylvania,Yes,28,PayPal,6
+303,37,Male,Delaware,Yes,27,Bank Transfer,1
+304,20,Male,Oregon,Yes,49,Venmo,7
+305,40,Male,Oregon,Yes,45,Credit Card,5
+314,42,Male,Vermont,Yes,50,Credit Card,1
+317,36,Male,California,Yes,46,Venmo,4
+322,41,Male,Vermont,Yes,48,Debit Card,3
+323,41,Male,Tennessee,Yes,47,Credit Card,4
+325,37,Male,Wyoming,Yes,37,Venmo,3
+332,31,Male,Florida,Yes,46,PayPal,3
+335,41,Male,Kansas,Yes,30,Credit Card,2
+336,20,Male,Oregon,Yes,44,Venmo,1
+341,40,Male,New Jersey,Yes,39,Venmo,1
+342,20,Male,Utah,Yes,40,Debit Card,5
+344,27,Male,Nebraska,Yes,26,Venmo,4
+345,24,Male,Virginia,Yes,46,Debit Card,4
+348,36,Male,Oregon,Yes,43,PayPal,6
+351,42,Male,Kentucky,Yes,47,Bank Transfer,6
+360,31,Male,Georgia,Yes,30,Credit Card,1
+369,24,Male,Oklahoma,Yes,29,Cash,4
+370,38,Male,Wisconsin,Yes,45,PayPal,3
+372,27,Male,North Carolina,Yes,47,PayPal,4
+380,32,Male,Montana,Yes,46,Debit Card,5
+383,28,Male,California,Yes,47,PayPal,3
+390,27,Male,Virginia,Yes,28,Bank Transfer,4
+393,26,Male,Idaho,Yes,38,Credit Card,2
+398,22,Male,Mississippi,Yes,26,Cash,2
+403,31,Male,California,Yes,26,PayPal,4
+409,34,Male,Alabama,Yes,36,Cash,6
+410,35,Male,Minnesota,Yes,32,Bank Transfer,4
+415,29,Male,Wyoming,Yes,30,Debit Card,7
+418,23,Male,Mississippi,Yes,48,Debit Card,3
+419,18,Male,Illinois,Yes,27,Venmo,5
+422,38,Male,Kentucky,Yes,48,Cash,5
+431,24,Male,Texas,Yes,40,Debit Card,2
+432,43,Male,New Hampshire,Yes,33,Cash,6
+437,40,Male,Tennessee,Yes,41,Bank Transfer,7
+441,20,Male,Oklahoma,Yes,34,Debit Card,6
+442,43,Male,Florida,Yes,32,Credit Card,2
+443,29,Male,Michigan,Yes,31,Credit Card,3
+449,32,Male,Missouri,Yes,35,Bank Transfer,6
+450,26,Male,New York,Yes,35,Bank Transfer,4
+458,25,Male,Rhode Island,Yes,48,Debit Card,1
+464,37,Male,Georgia,Yes,29,Venmo,7
+465,23,Male,Alabama,Yes,45,PayPal,4
+468,19,Male,Nebraska,Yes,37,Debit Card,1
+470,21,Male,Alabama,Yes,30,Debit Card,5
+474,34,Male,West Virginia,Yes,29,PayPal,1
+478,42,Male,North Dakota,Yes,49,Debit Card,7
+479,35,Male,Kansas,Yes,48,Venmo,2
+480,39,Male,Iowa,Yes,43,Venmo,4
+487,38,Male,New Mexico,Yes,37,Venmo,1
+495,38,Male,Indiana,Yes,42,Debit Card,7
+497,30,Male,California,Yes,31,Venmo,6
+498,43,Male,Oklahoma,Yes,31,Cash,7
+499,43,Male,Iowa,Yes,27,Bank Transfer,4
+501,36,Male,Washington,Yes,35,Venmo,1
+505,42,Male,Missouri,Yes,26,PayPal,2
+507,28,Male,Georgia,Yes,48,Debit Card,2
+509,27,Male,Illinois,Yes,31,PayPal,3
+514,22,Male,New Mexico,Yes,45,Venmo,2
+522,36,Male,Vermont,Yes,50,Bank Transfer,2
+528,21,Male,South Carolina,Yes,47,Bank Transfer,1
+529,34,Male,Maryland,Yes,40,Cash,2
+533,26,Male,Texas,Yes,35,Bank Transfer,1
+539,27,Male,Virginia,Yes,43,Cash,7
+543,27,Male,Illinois,Yes,35,Cash,5
+545,34,Male,Washington,Yes,30,Bank Transfer,1
+546,33,Male,Alabama,Yes,48,Debit Card,2
+548,38,Male,Nevada,Yes,26,Venmo,7
+549,36,Male,Nebraska,Yes,41,Debit Card,1
+550,31,Male,Arizona,Yes,37,Venmo,5
+552,29,Male,Idaho,Yes,27,Cash,5
+558,18,Male,Alaska,Yes,31,Debit Card,7
+569,44,Male,Utah,Yes,36,PayPal,4
+578,19,Male,Alabama,Yes,41,Venmo,2
+584,25,Male,California,Yes,38,PayPal,4
+588,29,Male,Washington,Yes,48,Debit Card,1
+590,28,Male,Minnesota,Yes,40,PayPal,2
+596,30,Male,Delaware,Yes,47,PayPal,3
+597,23,Male,Montana,Yes,36,Venmo,2
+599,21,Male,California,Yes,30,Cash,1
+604,31,Male,Massachusetts,Yes,26,PayPal,1
+607,27,Male,Colorado,Yes,44,PayPal,4
+617,29,Male,Pennsylvania,Yes,38,Credit Card,1
+624,19,Male,Nevada,Yes,48,PayPal,5
+631,41,Male,Mississippi,Yes,33,Debit Card,2
+635,36,Male,Ohio,Yes,46,PayPal,7
+636,27,Male,South Carolina,Yes,28,Cash,3
+638,21,Male,Tennessee,Yes,46,Cash,6
+649,22,Male,Michigan,Yes,35,Credit Card,7
+652,32,Male,Arkansas,Yes,41,Venmo,6
+654,20,Male,North Dakota,Yes,45,Cash,6
+663,24,Male,Illinois,Yes,39,Venmo,5
+666,41,Male,New Mexico,Yes,50,Credit Card,2
+667,35,Male,Colorado,Yes,30,Debit Card,3
+668,34,Male,Arizona,Yes,32,Bank Transfer,3
+670,43,Male,Illinois,Yes,45,Venmo,5
+672,38,Male,Iowa,Yes,45,Cash,7
+674,35,Male,Oklahoma,Yes,27,Venmo,5
+677,28,Male,Connecticut,Yes,38,Venmo,5
+683,23,Male,Missouri,Yes,49,Credit Card,5
+688,19,Male,West Virginia,Yes,46,Bank Transfer,3
+689,25,Male,Michigan,Yes,44,Venmo,4
+690,19,Male,Pennsylvania,Yes,35,Credit Card,1
+691,25,Male,Alaska,Yes,45,Bank Transfer,7
+693,35,Male,North Dakota,Yes,40,Debit Card,1
+695,41,Male,Kentucky,Yes,38,Venmo,1
+697,44,Male,Utah,Yes,49,Cash,4
+706,25,Male,Arkansas,Yes,49,Cash,3
+711,22,Male,Virginia,Yes,26,PayPal,6
+713,42,Male,New Hampshire,Yes,36,Bank Transfer,3
+714,37,Male,Oregon,Yes,39,Bank Transfer,5
+715,26,Male,South Dakota,Yes,40,Debit Card,6
+716,33,Male,Delaware,Yes,37,Debit Card,3
+722,43,Male,California,Yes,41,Debit Card,1
+723,27,Male,Wyoming,Yes,50,Cash,5
+724,35,Male,Missouri,Yes,43,PayPal,4
+725,37,Male,New Hampshire,Yes,36,Venmo,1
+730,41,Male,Minnesota,Yes,46,PayPal,1
+732,43,Male,Arkansas,Yes,30,PayPal,6
+733,34,Male,New Hampshire,Yes,28,Cash,5
+737,18,Male,Colorado,Yes,32,Credit Card,1
+744,21,Male,North Carolina,Yes,36,Cash,7
+747,40,Male,Michigan,Yes,47,Credit Card,2
+772,22,Male,Hawaii,Yes,34,Bank Transfer,6
+773,18,Male,Illinois,Yes,40,Debit Card,5
+781,34,Male,New York,Yes,38,Cash,3
+785,31,Male,Alabama,Yes,41,Bank Transfer,1
+793,34,Male,New Jersey,Yes,45,Venmo,7
+796,39,Male,New York,Yes,34,Venmo,2
+797,42,Male,Arizona,Yes,43,Credit Card,2
+798,42,Male,Maryland,Yes,38,Debit Card,7
+799,29,Male,Alaska,Yes,48,PayPal,1
+804,32,Male,Connecticut,Yes,30,Venmo,1
+805,43,Male,Mississippi,Yes,28,Venmo,3
+806,41,Male,Connecticut,Yes,40,Debit Card,4
+812,18,Male,Illinois,Yes,36,Venmo,3
+816,30,Male,West Virginia,Yes,27,Venmo,5
+818,25,Male,Nevada,Yes,30,PayPal,6
+828,31,Male,Colorado,Yes,33,Bank Transfer,6
+829,24,Male,Nevada,Yes,27,PayPal,5
+838,25,Male,Illinois,Yes,33,Cash,1
+839,33,Male,Kentucky,Yes,49,Credit Card,2
+846,31,Male,Michigan,Yes,30,Venmo,4
+858,43,Male,Missouri,Yes,50,Debit Card,1
+859,19,Male,Oklahoma,Yes,33,PayPal,7
+870,38,Male,New Hampshire,Yes,33,PayPal,7
+879,23,Male,Tennessee,Yes,37,Debit Card,7
+884,28,Male,Pennsylvania,Yes,30,Bank Transfer,4
+886,41,Male,Ohio,Yes,49,Debit Card,1
+887,19,Male,Utah,Yes,48,Bank Transfer,4
+893,31,Male,New Mexico,Yes,43,Debit Card,4
+896,40,Male,Mississippi,Yes,33,Debit Card,3
+898,29,Male,Illinois,Yes,46,Venmo,7
+908,32,Male,Missouri,Yes,34,Credit Card,5
+913,24,Male,Arkansas,Yes,32,Bank Transfer,4
+914,37,Male,Utah,Yes,29,Cash,1
+915,43,Male,Washington,Yes,27,Venmo,1
+916,31,Male,Rhode Island,Yes,33,Credit Card,6
+921,37,Male,Arkansas,Yes,37,Cash,7
+937,31,Male,Maine,Yes,28,Cash,7
+942,39,Male,Illinois,Yes,38,PayPal,1
+943,26,Male,Arizona,Yes,38,PayPal,5
+950,33,Male,Montana,Yes,49,Venmo,4
+953,36,Male,Idaho,Yes,28,PayPal,4
+957,29,Male,Mississippi,Yes,42,Debit Card,3
+963,29,Male,Michigan,Yes,26,Debit Card,6
+970,40,Male,California,Yes,37,PayPal,4
+977,34,Male,Florida,Yes,50,Credit Card,1
+978,20,Male,Washington,Yes,34,Cash,5
+982,27,Male,Maryland,Yes,47,Credit Card,3
+983,35,Male,Texas,Yes,37,PayPal,4
+984,24,Male,New Mexico,Yes,40,Venmo,5
+992,20,Male,Wisconsin,Yes,40,Bank Transfer,5
+997,29,Male,Delaware,Yes,32,Bank Transfer,3
+1005,33,Male,Tennessee,Yes,44,Cash,2
+1007,21,Male,Michigan,Yes,50,Venmo,3
+1009,41,Male,New Mexico,Yes,29,PayPal,2
+1012,43,Male,Montana,Yes,32,Debit Card,6
+1013,28,Male,New Mexico,Yes,27,Credit Card,2
+1015,28,Male,Ohio,Yes,36,Debit Card,6
+1020,32,Male,Kentucky,Yes,33,Venmo,5
+1021,24,Male,Delaware,Yes,41,Debit Card,2
+1030,29,Male,Ohio,Yes,33,Venmo,5
+1032,22,Male,Tennessee,Yes,32,Cash,3
+1034,19,Male,Montana,Yes,41,Bank Transfer,3
+1040,29,Male,Michigan,Yes,39,Venmo,4
+1044,28,Male,Hawaii,Yes,28,Debit Card,6
+1055,18,Male,Arkansas,No,48,PayPal,3
+1057,20,Male,Idaho,No,42,Venmo,6
+1059,29,Male,New Mexico,No,49,Bank Transfer,1
+1065,34,Male,Wyoming,No,42,Credit Card,1
+1070,38,Male,Maryland,No,33,Venmo,1
+1074,22,Male,California,No,33,Credit Card,4
+1077,33,Male,North Dakota,No,47,Venmo,5
+1079,37,Male,Arizona,No,49,Credit Card,6
+1080,18,Male,Oklahoma,No,48,Bank Transfer,4
+1084,35,Male,Washington,No,43,Cash,7
+1085,34,Male,Arkansas,No,48,Cash,3
+1090,40,Male,Arizona,No,33,PayPal,5
+1091,38,Male,Connecticut,No,27,Cash,6
+1096,19,Male,Tennessee,No,30,Bank Transfer,3
+1100,19,Male,North Carolina,No,45,Bank Transfer,6
+1102,30,Male,Delaware,No,39,Cash,6
+1109,27,Male,Nebraska,No,50,Cash,6
+1111,28,Male,Texas,No,31,Cash,5
+1116,30,Male,New York,No,37,Cash,7
+1120,34,Male,Louisiana,No,36,Credit Card,7
+1121,22,Male,Pennsylvania,No,40,Debit Card,4
+1124,36,Male,Massachusetts,No,38,Cash,4
+1125,42,Male,Iowa,No,40,Cash,3
+1127,23,Male,Iowa,No,47,Venmo,6
+1130,37,Male,New Hampshire,No,46,Venmo,6
+1134,36,Male,Connecticut,No,29,Cash,7
+1137,23,Male,Illinois,No,37,Cash,4
+1139,18,Male,Iowa,No,32,Venmo,6
+1146,31,Male,Nevada,No,30,Cash,1
+1150,21,Male,Georgia,No,40,Venmo,2
+1151,29,Male,Kentucky,No,50,Venmo,5
+1174,44,Male,South Dakota,No,42,Cash,5
+1176,35,Male,New Jersey,No,26,PayPal,3
+1177,36,Male,Oregon,No,39,PayPal,3
+1180,20,Male,Indiana,No,44,Bank Transfer,2
+1181,23,Male,Oregon,No,34,Cash,4
+1183,37,Male,New Mexico,No,45,PayPal,3
+1192,34,Male,Indiana,No,50,Venmo,3
+1196,25,Male,Texas,No,33,Venmo,4
+1202,27,Male,Illinois,No,46,Venmo,6
+1220,19,Male,Vermont,No,35,Credit Card,5
+1230,34,Male,Kansas,No,39,Bank Transfer,2
+1231,25,Male,Illinois,No,49,Venmo,4
+1236,23,Male,Idaho,No,46,PayPal,1
+1237,42,Male,New Mexico,No,35,Debit Card,1
+1238,25,Male,Michigan,No,42,Credit Card,3
+1241,41,Male,New Jersey,No,48,Debit Card,2
+1246,42,Male,New York,No,30,Bank Transfer,7
+1247,27,Male,Louisiana,No,27,Cash,4
+1254,39,Male,Montana,No,49,PayPal,2
+1256,30,Male,Indiana,No,38,Cash,6
+1263,29,Male,Tennessee,No,44,Venmo,4
+1266,32,Male,Louisiana,No,27,Bank Transfer,7
+1270,43,Male,Vermont,No,47,PayPal,3
+1274,41,Male,Mississippi,No,32,Credit Card,1
+1279,28,Male,Utah,No,31,Venmo,6
+1281,30,Male,Georgia,No,39,Venmo,1
+1287,40,Male,West Virginia,No,44,Debit Card,6
+1293,26,Male,Kentucky,No,42,Bank Transfer,2
+1294,23,Male,Florida,No,30,Debit Card,2
+1296,30,Male,New Mexico,No,50,PayPal,7
+1298,44,Male,New Jersey,No,32,Venmo,2
+1300,29,Male,Louisiana,No,42,Venmo,5
+1303,23,Male,Idaho,No,37,Credit Card,4
+1308,23,Male,Missouri,No,43,PayPal,2
+1310,32,Male,Hawaii,No,41,Cash,3
+1311,43,Male,South Carolina,No,38,Credit Card,1
+1315,42,Male,Missouri,No,49,Debit Card,2
+1329,37,Male,Rhode Island,No,40,Bank Transfer,7
+1337,23,Male,Oregon,No,44,Debit Card,6
+1342,26,Male,Rhode Island,No,31,Bank Transfer,3
+1346,40,Male,Nebraska,No,42,Venmo,7
+1348,44,Male,Vermont,No,47,Bank Transfer,4
+1352,30,Male,Vermont,No,28,Bank Transfer,3
+1360,27,Male,North Carolina,No,26,Bank Transfer,6
+1363,41,Male,Colorado,No,29,Cash,7
+1364,36,Male,Wisconsin,No,47,PayPal,3
+1370,32,Male,Iowa,No,48,Venmo,6
+1371,27,Male,Montana,No,41,Bank Transfer,1
+1372,40,Male,Mississippi,No,42,Credit Card,4
+1378,33,Male,Maryland,No,42,Venmo,4
+1380,21,Male,Minnesota,No,38,Venmo,5
+1382,30,Male,Illinois,No,48,Venmo,3
+1391,25,Male,Arkansas,No,42,Debit Card,7
+1393,31,Male,Arkansas,No,34,Venmo,1
+1395,26,Male,Iowa,No,39,Cash,7
+1397,37,Male,Wisconsin,No,49,Debit Card,4
+1400,19,Male,Nebraska,No,48,Venmo,2
+1406,33,Male,New Hampshire,No,39,Credit Card,4
+1410,34,Male,Idaho,No,41,Cash,6
+1413,25,Male,Michigan,No,43,Venmo,2
+1421,22,Male,California,No,45,PayPal,1
+1429,20,Male,North Dakota,No,42,PayPal,3
+1432,39,Male,South Dakota,No,29,Venmo,3
+1433,34,Male,Florida,No,32,Debit Card,3
+1445,32,Male,Vermont,No,26,Cash,3
+1454,36,Male,Virginia,No,41,Bank Transfer,6
+1459,35,Male,Missouri,No,34,Venmo,7
+1469,42,Male,Arkansas,No,46,Cash,6
+1470,28,Male,Mississippi,No,31,PayPal,1
+1472,31,Male,Alaska,No,48,Venmo,1
+1481,39,Male,New Hampshire,No,26,Cash,3
+1483,28,Male,Wisconsin,No,43,Bank Transfer,7
+1488,40,Male,Arizona,No,26,PayPal,2
+1489,23,Male,Hawaii,No,37,Credit Card,7
+1490,24,Male,Missouri,No,42,Venmo,3
+1507,35,Male,South Carolina,No,44,PayPal,3
+1510,20,Male,New Hampshire,No,44,Debit Card,2
+1512,34,Male,Georgia,No,48,Credit Card,7
+1514,22,Male,Texas,No,27,Cash,4
+1516,39,Male,Indiana,No,34,Cash,7
+1521,21,Male,Iowa,No,39,Cash,3
+1522,29,Male,Washington,No,50,Bank Transfer,7
+1527,41,Male,Oklahoma,No,27,PayPal,4
+1528,26,Male,Wisconsin,No,33,Debit Card,6
+1530,20,Male,Georgia,No,48,Credit Card,5
+1542,24,Male,Illinois,No,35,Cash,5
+1556,43,Male,Ohio,No,44,Cash,3
+1557,43,Male,Alabama,No,26,Credit Card,3
+1558,27,Male,South Dakota,No,34,PayPal,3
+1565,22,Male,California,No,30,Debit Card,1
+1570,20,Male,Hawaii,No,29,Debit Card,7
+1575,18,Male,Minnesota,No,32,PayPal,5
+1583,28,Male,Hawaii,No,39,Cash,4
+1585,41,Male,Hawaii,No,46,Credit Card,3
+1586,37,Male,Alabama,No,40,Debit Card,6
+1588,41,Male,Alabama,No,33,Credit Card,6
+1590,42,Male,Ohio,No,48,Cash,7
+1596,34,Male,Wisconsin,No,45,Debit Card,6
+1598,43,Male,Mississippi,No,34,Bank Transfer,3
+1613,18,Male,Wisconsin,No,26,Venmo,4
+1617,26,Male,Colorado,No,50,Cash,3
+1618,43,Male,Wisconsin,No,50,Credit Card,6
+1621,25,Male,Virginia,No,27,PayPal,1
+1623,31,Male,Missouri,No,37,Bank Transfer,1
+1625,38,Male,Florida,No,40,PayPal,1
+1627,32,Male,Nevada,No,45,Credit Card,5
+1633,35,Male,Oregon,No,50,Debit Card,1
+1635,28,Male,South Carolina,No,30,Cash,1
+1638,35,Male,Massachusetts,No,32,Venmo,6
+1640,41,Male,Missouri,No,50,PayPal,2
+1654,31,Male,Colorado,No,29,Debit Card,5
+1657,21,Male,Indiana,No,41,PayPal,1
+1659,32,Male,Alaska,No,47,Cash,7
+1665,19,Male,Minnesota,No,35,PayPal,7
+1666,40,Male,New Mexico,No,49,Venmo,4
+1674,21,Male,Hawaii,No,49,Venmo,5
+1677,27,Male,West Virginia,No,34,Bank Transfer,7
+1679,41,Male,Ohio,No,30,Venmo,6
+1684,23,Male,Arkansas,No,37,Venmo,3
+1685,30,Male,New Mexico,No,28,PayPal,7
+1686,33,Male,Minnesota,No,43,PayPal,5
+1690,32,Male,North Carolina,No,32,Bank Transfer,4
+1698,36,Male,South Carolina,No,48,Credit Card,1
+1699,25,Male,Iowa,No,46,Bank Transfer,3
+1700,20,Male,North Dakota,No,34,Debit Card,2
+1706,39,Male,South Dakota,No,49,Venmo,5
+1716,23,Male,Idaho,No,30,PayPal,5
+1721,25,Male,Massachusetts,No,40,Debit Card,5
+1731,23,Male,Alabama,No,26,Credit Card,7
+1738,42,Male,Ohio,No,50,Venmo,5
+1746,40,Male,West Virginia,No,27,Cash,7
+1749,34,Male,Montana,No,41,Bank Transfer,2
+1750,43,Male,Wyoming,No,36,Debit Card,1
+1751,31,Male,Missouri,No,38,Venmo,1
+1758,19,Male,Michigan,No,48,Debit Card,2
+1761,20,Male,Minnesota,No,39,PayPal,7
+1763,36,Male,Idaho,No,41,Bank Transfer,6
+1764,37,Male,Vermont,No,28,PayPal,2
+1770,32,Male,Alaska,No,45,Cash,4
+1780,29,Male,Virginia,No,41,Venmo,7
+1782,31,Male,Iowa,No,49,Bank Transfer,3
+1784,42,Male,Ohio,No,30,Credit Card,4
+1800,32,Male,California,No,47,Venmo,7
+1801,22,Male,Mississippi,No,30,Credit Card,7
+1802,33,Male,New Jersey,No,48,Debit Card,6
+1805,30,Male,Louisiana,No,39,Credit Card,7
+1806,41,Male,Arizona,No,46,Debit Card,7
+1808,34,Male,Vermont,No,37,Venmo,6
+1812,42,Male,Wisconsin,No,33,Bank Transfer,2
+1821,19,Male,Washington,No,31,PayPal,4
+1826,23,Male,South Dakota,No,41,Credit Card,7
+1828,20,Male,Vermont,No,31,Bank Transfer,7
+1829,33,Male,New Hampshire,No,45,Cash,1
+1830,30,Male,Oregon,No,50,Credit Card,3
+1840,32,Male,Mississippi,No,32,Cash,2
+1841,42,Male,Wyoming,No,46,Bank Transfer,1
+1844,36,Male,Kentucky,No,32,Credit Card,4
+1849,19,Male,Maine,No,34,Cash,1
+1850,30,Male,New Mexico,No,35,Bank Transfer,4
+1853,41,Male,Pennsylvania,No,32,Cash,7
+1855,25,Male,Kentucky,No,49,Credit Card,2
+1864,25,Male,Connecticut,No,39,Debit Card,4
+1869,23,Male,Indiana,No,44,Cash,6
+1871,43,Male,Wyoming,No,27,Debit Card,6
+1884,25,Male,Georgia,No,39,Debit Card,6
+1886,26,Male,Nevada,No,35,Cash,4
+1887,18,Male,Arkansas,No,46,Cash,5
+1895,42,Male,Arizona,No,48,Debit Card,5
+1900,32,Male,New York,No,42,PayPal,7
+1905,22,Male,Nevada,No,46,Cash,4
+1915,28,Male,Alaska,No,40,Credit Card,6
+1918,38,Male,Hawaii,No,35,PayPal,5
+1919,35,Male,Idaho,No,33,Debit Card,4
+1925,30,Male,Michigan,No,42,PayPal,3
+1933,42,Male,Maryland,No,47,Credit Card,1
+1936,19,Male,North Carolina,No,45,Cash,6
+1944,32,Male,Wisconsin,No,45,Cash,2
+1945,30,Male,Arkansas,No,49,Cash,1
+1951,43,Male,Arkansas,No,26,PayPal,1
+1952,33,Male,Connecticut,No,32,Bank Transfer,5
+1959,39,Male,Nevada,No,47,Cash,3
+1965,40,Male,West Virginia,No,50,Debit Card,4
+1977,32,Male,Wyoming,No,43,PayPal,6
+1978,24,Male,Florida,No,32,Bank Transfer,2
+1983,41,Male,Kansas,No,32,PayPal,4
+1985,26,Male,West Virginia,No,26,PayPal,6
+1990,35,Male,Maryland,No,39,PayPal,5
+1993,33,Male,New Jersey,No,28,Venmo,4
+2000,39,Male,Tennessee,No,26,Debit Card,4
+2006,18,Male,Tennessee,No,30,PayPal,6
+2010,37,Male,Alabama,No,26,Venmo,5
+2021,41,Male,Pennsylvania,No,26,Cash,3
+2026,42,Male,Delaware,No,43,Debit Card,6
+2027,37,Male,Maine,No,45,Bank Transfer,1
+2030,25,Male,Montana,No,40,PayPal,3
+2037,37,Male,Minnesota,No,46,Cash,7
+2040,35,Male,Minnesota,No,31,Debit Card,5
+2043,19,Male,Alabama,No,35,Venmo,4
+2046,31,Male,Georgia,No,26,PayPal,3
+2047,39,Male,Oklahoma,No,30,Cash,1
+2056,28,Male,Texas,No,28,Bank Transfer,7
+2075,36,Male,Florida,No,44,Debit Card,6
+2082,24,Male,Alabama,No,48,Bank Transfer,5
+2083,41,Male,Arkansas,No,28,Venmo,1
+2084,41,Male,Mississippi,No,26,Credit Card,6
+2085,32,Male,Vermont,No,43,Bank Transfer,3
+2089,39,Male,California,No,49,Debit Card,2
+2090,37,Male,Maryland,No,41,Credit Card,1
+2093,42,Male,Minnesota,No,27,Bank Transfer,7
+2097,21,Male,North Carolina,No,27,Debit Card,2
+2100,31,Male,Oklahoma,No,50,PayPal,2
+2122,43,Male,Alaska,No,32,Bank Transfer,4
+2123,32,Male,Virginia,No,42,Debit Card,7
+2131,25,Male,Arizona,No,33,Credit Card,2
+2140,40,Male,New York,No,33,Cash,7
+2142,24,Male,Kentucky,No,32,PayPal,2
+2146,38,Male,Connecticut,No,32,PayPal,2
+2153,38,Male,New Jersey,No,43,Bank Transfer,5
+2154,35,Male,Kentucky,No,31,PayPal,2
+2156,32,Male,Hawaii,No,46,PayPal,4
+2157,38,Male,Missouri,No,41,Debit Card,5
+2158,41,Male,Mississippi,No,41,Venmo,6
+2160,18,Male,Louisiana,No,34,Cash,2
+2165,42,Male,Iowa,No,46,PayPal,5
+2166,29,Male,Idaho,No,42,Credit Card,1
+2167,31,Male,New Jersey,No,50,Credit Card,5
+2168,30,Male,Ohio,No,33,Venmo,6
+2169,23,Male,Connecticut,No,32,Cash,3
+2170,31,Male,Florida,No,32,Bank Transfer,5
+2171,40,Male,South Carolina,No,37,Venmo,1
+2174,23,Male,Delaware,No,36,Venmo,3
+2177,24,Male,Vermont,No,44,Debit Card,3
+2179,21,Male,Florida,No,32,Venmo,2
+2181,41,Male,Connecticut,No,43,Cash,3
+2182,22,Male,Hawaii,No,32,Bank Transfer,5
+2183,42,Male,New Mexico,No,26,Venmo,5
+2186,40,Male,North Carolina,No,50,Debit Card,1
+2190,38,Male,Wisconsin,No,47,Credit Card,5
+2191,42,Male,Alaska,No,33,Credit Card,2
+2192,26,Male,Pennsylvania,No,46,Cash,5
+2197,25,Male,Vermont,No,31,PayPal,7
+2198,33,Male,Pennsylvania,No,40,Venmo,4
+2200,39,Male,North Carolina,No,40,Debit Card,4
+2210,42,Male,Utah,No,44,Bank Transfer,3
+2211,30,Male,Virginia,No,35,PayPal,6
+2216,25,Male,West Virginia,No,28,Credit Card,6
+2218,35,Male,Indiana,No,42,Bank Transfer,6
+2221,19,Male,Wyoming,No,47,Cash,2
+2222,25,Male,Kansas,No,34,Credit Card,2
+2223,32,Male,Georgia,No,30,Credit Card,7
+2225,18,Male,Nebraska,No,38,Cash,3
+2227,22,Male,Missouri,No,28,Cash,2
+2228,40,Male,Washington,No,42,Credit Card,6
+2234,38,Male,Florida,No,48,Credit Card,4
+2235,35,Male,New Hampshire,No,26,Cash,7
+2236,40,Male,Illinois,No,44,Credit Card,2
+2240,42,Male,Alabama,No,41,Credit Card,1
+2250,42,Male,Wyoming,No,29,Debit Card,7
+2255,24,Male,North Dakota,No,44,PayPal,1
+2257,31,Male,California,No,33,Credit Card,3
+2259,24,Male,Ohio,No,44,Credit Card,1
+2264,44,Male,Indiana,No,42,Cash,3
+2267,20,Male,Missouri,No,32,Debit Card,7
+2268,32,Male,Kentucky,No,37,Venmo,7
+2272,29,Male,Alaska,No,49,PayPal,3
+2273,29,Male,Maine,No,44,PayPal,4
+2281,22,Male,Kentucky,No,31,Credit Card,6
+2282,28,Male,Kansas,No,41,Bank Transfer,2
+2284,44,Male,Ohio,No,34,Credit Card,6
+2286,34,Male,Michigan,No,38,PayPal,1
+2289,28,Male,California,No,50,PayPal,7
+2293,43,Male,Vermont,No,31,Debit Card,4
+2301,18,Male,Pennsylvania,No,38,Credit Card,4
+2303,36,Male,Montana,No,38,Venmo,4
+2308,28,Male,Missouri,No,30,Debit Card,2
+2324,35,Male,Maryland,No,36,Credit Card,4
+2326,44,Male,New York,No,47,Cash,7
+2347,22,Male,New Mexico,No,46,Debit Card,6
+2348,37,Male,California,No,46,Cash,1
+2360,19,Male,Pennsylvania,No,44,Bank Transfer,1
+2362,44,Male,Alabama,No,30,Credit Card,1
+2367,30,Male,New Mexico,No,32,Credit Card,6
+2379,26,Male,New Hampshire,No,37,PayPal,5
+2381,41,Male,Pennsylvania,No,36,PayPal,6
+2383,39,Male,California,No,44,Debit Card,7
+2385,24,Male,Alabama,No,40,PayPal,3
+2392,42,Male,Michigan,No,31,Bank Transfer,3
+2393,40,Male,Missouri,No,36,Cash,2
+2398,37,Male,West Virginia,No,41,Venmo,4
+2409,23,Male,Hawaii,No,44,Debit Card,1
+2410,26,Male,Washington,No,47,Cash,1
+2416,21,Male,Hawaii,No,30,Bank Transfer,7
+2418,21,Male,Alaska,No,32,Venmo,6
+2419,22,Male,Michigan,No,47,Cash,1
+2421,41,Male,North Carolina,No,28,PayPal,2
+2423,30,Male,Georgia,No,45,Credit Card,7
+2428,27,Male,Oregon,No,45,Cash,3
+2431,20,Male,North Dakota,No,42,Cash,3
+2432,34,Male,Alabama,No,27,Bank Transfer,1
+2435,36,Male,Utah,No,40,Credit Card,4
+2436,21,Male,Hawaii,No,29,Cash,5
+2438,43,Male,Wyoming,No,34,Credit Card,7
+2439,32,Male,Delaware,No,30,Venmo,7
+2441,31,Male,Indiana,No,47,Bank Transfer,2
+2450,26,Male,Alabama,No,31,Venmo,6
+2452,41,Male,Oklahoma,No,27,Venmo,4
+2455,32,Male,Alaska,No,33,Venmo,2
+2467,32,Male,South Dakota,No,37,Cash,2
+2468,27,Male,New Jersey,No,28,Credit Card,2
+2473,24,Male,Utah,No,31,Credit Card,2
+2478,25,Male,California,No,29,PayPal,7
+2480,37,Male,Kansas,No,26,Credit Card,1
+2482,41,Male,New Jersey,No,35,Debit Card,7
+2486,43,Male,Louisiana,No,37,Bank Transfer,2
+2495,42,Male,Oklahoma,No,26,Debit Card,2
+2496,40,Male,Nebraska,No,34,Credit Card,1
+2498,35,Male,Colorado,No,28,Bank Transfer,2
+2499,18,Male,Massachusetts,No,38,Cash,6
+2506,27,Male,Illinois,No,43,PayPal,3
+2511,40,Male,South Dakota,No,48,Credit Card,7
+2515,42,Male,Alaska,No,45,PayPal,5
+2516,37,Male,Kansas,No,41,Cash,4
+2519,20,Male,Maine,No,31,Venmo,2
+2528,19,Male,Illinois,No,33,Bank Transfer,1
+2530,34,Male,Tennessee,No,48,Bank Transfer,4
+2531,25,Male,Massachusetts,No,28,Debit Card,7
+2538,44,Male,Maine,No,30,PayPal,6
+2539,18,Male,New Jersey,No,33,Credit Card,5
+2544,27,Male,West Virginia,No,30,PayPal,5
+2549,42,Male,Texas,No,34,Credit Card,4
+2552,29,Male,Minnesota,No,40,Debit Card,2
+2565,42,Male,Kentucky,No,27,Bank Transfer,7
+2567,35,Male,Missouri,No,43,PayPal,3
+2575,27,Male,Florida,No,26,Credit Card,6
+2585,26,Male,Florida,No,26,Bank Transfer,5
+2589,44,Male,Delaware,No,38,Venmo,5
+2592,40,Male,New Mexico,No,40,Cash,3
+2606,41,Male,Nevada,No,32,Venmo,6
+2608,41,Male,Oklahoma,No,38,PayPal,1
+2609,42,Male,Mississippi,No,48,Credit Card,6
+2615,18,Male,North Dakota,No,36,Bank Transfer,6
+2618,31,Male,Idaho,No,29,Bank Transfer,2
+2621,27,Male,Ohio,No,28,Debit Card,2
+2626,30,Male,Colorado,No,31,Credit Card,7
+2629,25,Male,Wyoming,No,42,Credit Card,5
+2639,22,Male,Hawaii,No,35,Credit Card,2
+2640,18,Male,New Hampshire,No,33,Debit Card,3
+2641,30,Male,Indiana,No,45,Venmo,5
+2643,39,Male,Iowa,No,48,Bank Transfer,2
+2651,20,Male,Oregon,No,46,Credit Card,1
+2653,23,Female,Maryland,No,46,Credit Card,4
+2660,35,Female,Kansas,No,46,Credit Card,6
+2661,24,Female,South Carolina,No,44,Venmo,2
+2663,25,Female,Nebraska,No,44,PayPal,6
+2665,22,Female,Illinois,No,37,PayPal,7
+2670,39,Female,Illinois,No,31,Credit Card,7
+2671,30,Female,Pennsylvania,No,26,Bank Transfer,5
+2672,37,Female,Alabama,No,41,PayPal,1
+2676,24,Female,Virginia,No,38,Cash,5
+2679,33,Female,Montana,No,34,Credit Card,5
+2687,40,Female,Georgia,No,33,Cash,6
+2690,29,Female,Wyoming,No,47,PayPal,3
+2692,43,Female,Nebraska,No,48,Cash,4
+2698,42,Female,Delaware,No,36,Bank Transfer,3
+2700,25,Female,Utah,No,49,Debit Card,2
+2701,22,Female,California,No,36,Cash,7
+2707,24,Female,Alabama,No,48,Debit Card,3
+2712,30,Female,Nebraska,No,50,Venmo,4
+2716,25,Female,Mississippi,No,29,PayPal,6
+2728,40,Female,Colorado,No,47,Credit Card,6
+2730,31,Female,Montana,No,32,Credit Card,4
+2731,23,Female,Wisconsin,No,37,Bank Transfer,2
+2733,21,Female,Delaware,No,27,Debit Card,1
+2734,31,Female,North Carolina,No,46,PayPal,2
+2737,44,Female,Montana,No,45,Credit Card,2
+2740,33,Female,Alaska,No,39,Credit Card,1
+2741,19,Female,Pennsylvania,No,34,Bank Transfer,6
+2743,27,Female,Texas,No,47,Debit Card,2
+2745,38,Female,Wyoming,No,40,Credit Card,4
+2746,28,Female,Michigan,No,44,PayPal,5
+2752,27,Female,Minnesota,No,50,Venmo,4
+2757,42,Female,Minnesota,No,41,PayPal,4
+2761,41,Female,Alaska,No,41,Credit Card,5
+2764,28,Female,West Virginia,No,35,Venmo,3
+2768,31,Female,Iowa,No,31,Cash,4
+2774,39,Female,Arizona,No,45,Bank Transfer,3
+2781,33,Female,Ohio,No,29,PayPal,6
+2783,41,Female,Idaho,No,30,PayPal,2
+2784,19,Female,Virginia,No,26,Credit Card,3
+2790,28,Female,North Carolina,No,28,Credit Card,5
+2794,37,Female,Massachusetts,No,27,Debit Card,5
+2796,33,Female,Nebraska,No,49,PayPal,2
+2803,22,Female,Hawaii,No,42,Credit Card,6
+2806,18,Female,Nevada,No,48,Cash,3
+2816,33,Female,Idaho,No,40,Venmo,1
+2817,43,Female,Maryland,No,45,Venmo,7
+2822,35,Female,Georgia,No,37,Venmo,4
+2824,26,Female,Utah,No,47,Debit Card,5
+2825,39,Female,Utah,No,49,Debit Card,3
+2829,25,Female,Tennessee,No,33,PayPal,3
+2833,29,Female,Maryland,No,40,PayPal,3
+2841,40,Female,West Virginia,No,41,Cash,2
+2842,19,Female,Ohio,No,31,Cash,7
+2843,28,Female,Arizona,No,48,Debit Card,3
+2845,32,Female,New Mexico,No,42,Venmo,2
+2846,26,Female,South Dakota,No,39,Debit Card,1
+2849,33,Female,Wisconsin,No,28,Bank Transfer,3
+2853,40,Female,New York,No,30,Venmo,7
+2856,29,Female,Mississippi,No,33,PayPal,3
+2858,44,Female,Utah,No,35,Debit Card,4
+2859,34,Female,Maryland,No,46,Bank Transfer,4
+2860,31,Female,Utah,No,29,Bank Transfer,2
+2861,28,Female,Rhode Island,No,49,Bank Transfer,7
+2866,28,Female,California,No,27,Cash,6
+2868,21,Female,Colorado,No,33,Cash,6
+2878,32,Female,New Jersey,No,34,Venmo,4
+2881,19,Female,Florida,No,43,PayPal,3
+2887,42,Female,Utah,No,29,PayPal,7
+2893,22,Female,Nevada,No,47,Credit Card,4
+2895,35,Female,Kentucky,No,41,Venmo,2
+2899,23,Female,New Jersey,No,29,Credit Card,2
+2902,41,Female,Alabama,No,46,Credit Card,3
+2905,41,Female,Iowa,No,43,Venmo,4
+2908,19,Female,Maryland,No,50,PayPal,5
+2910,27,Female,Louisiana,No,40,Credit Card,1
+2911,32,Female,Mississippi,No,41,Credit Card,4
+2912,28,Female,Ohio,No,34,Venmo,3
+2916,26,Female,Oregon,No,39,Debit Card,5
+2919,19,Female,New York,No,36,Cash,7
+2930,31,Female,Maine,No,42,Venmo,6
+2932,36,Female,Alabama,No,49,Credit Card,5
+2934,27,Female,Illinois,No,28,Venmo,4
+2935,38,Female,Idaho,No,41,Bank Transfer,3
+2937,31,Female,Washington,No,46,PayPal,7
+2940,32,Female,Kentucky,No,34,Venmo,7
+2942,38,Female,Pennsylvania,No,27,PayPal,4
+2944,29,Female,Virginia,No,37,Credit Card,4
+2947,38,Female,Hawaii,No,29,Bank Transfer,3
+2951,22,Female,Iowa,No,44,Debit Card,1
+2956,42,Female,Vermont,No,46,Credit Card,2
+2968,34,Female,Indiana,No,40,Venmo,2
+2971,24,Female,Kansas,No,44,Credit Card,5
+2977,30,Female,Nebraska,No,28,Cash,6
+2982,21,Female,Delaware,No,37,Venmo,2
+2996,29,Female,Virginia,No,42,Debit Card,5
+2999,31,Female,Alaska,No,30,Debit Card,3
+3002,29,Female,Montana,No,28,Credit Card,3
+3008,23,Female,New York,No,31,Venmo,7
+3015,24,Female,Utah,No,38,PayPal,1
+3016,37,Female,Wyoming,No,27,Bank Transfer,5
+3017,30,Female,Indiana,No,31,Bank Transfer,3
+3021,23,Female,Arkansas,No,48,Venmo,1
+3050,40,Female,Utah,No,41,Bank Transfer,5
+3051,31,Female,Kentucky,No,28,Venmo,1
+3052,44,Female,Wyoming,No,49,Debit Card,1
+3055,42,Female,New Hampshire,No,34,Venmo,4
+3065,22,Female,Idaho,No,49,Bank Transfer,3
+3073,26,Female,New York,No,46,PayPal,3
+3075,26,Female,Massachusetts,No,34,Debit Card,6
+3084,22,Female,Illinois,No,28,PayPal,3
+3089,34,Female,Arkansas,No,35,Bank Transfer,3
+3104,27,Female,Illinois,No,42,Bank Transfer,7
+3105,43,Female,Georgia,No,41,Debit Card,6
+3113,19,Female,Texas,No,26,Venmo,2
+3115,21,Female,Arkansas,No,45,Venmo,5
+3123,23,Female,Georgia,No,34,Credit Card,6
+3133,33,Female,Michigan,No,26,Cash,3
+3135,35,Female,Kentucky,No,47,Bank Transfer,7
+3141,34,Female,Alaska,No,37,Bank Transfer,7
+3142,36,Female,Mississippi,No,47,Credit Card,5
+3155,27,Female,Connecticut,No,32,Cash,3
+3156,22,Female,Montana,No,34,Cash,2
+3159,30,Female,Mississippi,No,44,Credit Card,4
+3161,28,Female,Nebraska,No,37,Cash,6
+3167,19,Female,Georgia,No,37,Bank Transfer,6
+3176,35,Female,Connecticut,No,26,Debit Card,1
+3177,36,Female,Arkansas,No,39,Credit Card,4
+3181,18,Female,Montana,No,46,PayPal,7
+3182,31,Female,Montana,No,27,PayPal,1
+3187,38,Female,Virginia,No,43,Venmo,2
+3189,42,Female,Vermont,No,39,Bank Transfer,4
+3190,25,Female,Kansas,No,30,PayPal,5
+3198,27,Female,Maine,No,29,Credit Card,1
+3206,40,Female,Colorado,No,50,Bank Transfer,1
+3207,36,Female,California,No,49,PayPal,4
+3211,30,Female,Nevada,No,43,Venmo,5
+3214,27,Female,Texas,No,33,Credit Card,4
+3218,44,Female,Oregon,No,46,Venmo,7
+3219,37,Female,Florida,No,49,PayPal,4
+3222,21,Female,New Hampshire,No,28,Cash,2
+3228,28,Female,Alaska,No,42,Debit Card,3
+3229,37,Female,Connecticut,No,27,PayPal,2
+3239,25,Female,Wyoming,No,37,Cash,3
+3240,33,Female,Colorado,No,30,Cash,4
+3249,22,Female,Pennsylvania,No,41,Bank Transfer,3
+3250,26,Female,Virginia,No,32,Credit Card,3
+3252,25,Female,Nevada,No,39,Venmo,3
+3258,44,Female,Minnesota,No,39,Venmo,1
+3265,28,Female,Maine,No,39,Cash,5
+3266,40,Female,Alabama,No,28,Credit Card,6
+3268,37,Female,Idaho,No,42,Credit Card,3
+3272,35,Female,Nevada,No,30,Credit Card,7
+3277,39,Female,South Dakota,No,41,PayPal,1
+3282,27,Female,Oregon,No,41,Bank Transfer,2
+3288,24,Female,West Virginia,No,38,Credit Card,7
+3294,19,Female,West Virginia,No,47,Credit Card,6
+3297,20,Female,Alaska,No,47,Venmo,3
+3301,26,Female,Oklahoma,No,40,Bank Transfer,5
+3302,36,Female,Oklahoma,No,31,Credit Card,6
+3303,36,Female,Alabama,No,31,Venmo,5
+3305,30,Female,Mississippi,No,36,Bank Transfer,1
+3306,34,Female,Nebraska,No,31,PayPal,5
+3318,21,Female,North Carolina,No,30,Cash,3
+3325,37,Female,Missouri,No,41,Venmo,7
+3331,38,Female,Missouri,No,41,Bank Transfer,3
+3336,44,Female,Texas,No,48,Bank Transfer,3
+3338,23,Female,Arizona,No,45,Bank Transfer,5
+3339,29,Female,Minnesota,No,46,Credit Card,4
+3340,20,Female,Nebraska,No,35,Cash,6
+3341,42,Female,Virginia,No,47,Credit Card,6
+3347,30,Female,Oklahoma,No,30,Venmo,3
+3348,22,Female,Iowa,No,28,PayPal,5
+3350,35,Female,Georgia,No,29,PayPal,3
+3358,41,Female,Arkansas,No,37,Credit Card,4
+3360,43,Female,New Hampshire,No,29,Debit Card,4
+3361,22,Female,Minnesota,No,47,Cash,1
+3366,43,Female,Tennessee,No,45,Credit Card,1
+3367,38,Female,North Carolina,No,47,Debit Card,3
+3369,30,Female,Nebraska,No,29,Bank Transfer,1
+3371,30,Female,Illinois,No,46,Cash,6
+3375,22,Female,Nevada,No,41,Debit Card,2
+3384,27,Female,Delaware,No,39,Venmo,5
+3387,34,Female,Michigan,No,36,Cash,3
+3390,38,Female,North Carolina,No,39,Venmo,2
+3391,32,Female,Oregon,No,38,PayPal,2
+3400,40,Female,Montana,No,36,Debit Card,2
+3402,44,Female,Nevada,No,39,Credit Card,7
+3406,28,Female,Washington,No,47,Bank Transfer,5
+3412,29,Female,New York,No,45,Cash,7
+3421,19,Female,Kentucky,No,35,PayPal,5
+3428,39,Female,Michigan,No,44,Cash,2
+3430,27,Female,Alaska,No,34,Debit Card,7
+3433,36,Female,Connecticut,No,46,PayPal,1
+3438,22,Female,Oklahoma,No,50,PayPal,2
+3439,26,Female,Kentucky,No,33,Credit Card,4
+3449,18,Female,Kentucky,No,32,Bank Transfer,6
+3451,20,Female,Vermont,No,31,PayPal,4
+3454,31,Female,Alabama,No,48,Venmo,5
+3463,44,Female,Michigan,No,34,Credit Card,1
+3464,27,Female,Maine,No,45,PayPal,6
+3466,19,Female,Iowa,No,31,Debit Card,7
+3469,36,Female,Ohio,No,36,Debit Card,3
+3471,19,Female,West Virginia,No,31,Cash,5
+3472,43,Female,North Carolina,No,31,Cash,5
+3479,36,Female,Arizona,No,42,PayPal,3
+3481,21,Female,New Hampshire,No,45,PayPal,4
+3488,25,Female,West Virginia,No,39,Bank Transfer,2
+3501,38,Female,Oregon,No,38,Debit Card,6
+3503,31,Female,Massachusetts,No,26,Bank Transfer,3
+3504,31,Female,Nebraska,No,39,Cash,7
+3513,36,Female,Kentucky,No,31,Debit Card,3
+3514,30,Female,Alaska,No,29,Credit Card,6
+3515,25,Female,Georgia,No,32,Cash,4
+3517,34,Female,South Carolina,No,38,PayPal,5
+3518,29,Female,Tennessee,No,34,Debit Card,1
+3521,41,Female,Georgia,No,33,Bank Transfer,4
+3529,38,Female,Maine,No,33,PayPal,2
+3556,25,Female,Delaware,No,45,Cash,3
+3568,32,Female,New Mexico,No,26,Credit Card,4
+3571,23,Female,Louisiana,No,32,Debit Card,2
+3574,43,Female,Connecticut,No,27,PayPal,4
+3575,29,Female,New York,No,39,Bank Transfer,3
+3582,26,Female,Georgia,No,50,Credit Card,7
+3585,39,Female,Florida,No,48,Debit Card,4
+3588,33,Female,Virginia,No,33,Debit Card,2
+3589,23,Female,Michigan,No,40,Cash,2
+3590,31,Female,New Hampshire,No,38,Cash,1
+3595,19,Female,Alabama,No,29,Venmo,3
+3597,28,Female,South Carolina,No,44,Cash,6
+3607,41,Female,Minnesota,No,41,Venmo,2
+3610,21,Female,New Mexico,No,31,Debit Card,4
+3617,42,Female,Wisconsin,No,33,Debit Card,6
+3619,28,Female,Nevada,No,47,PayPal,5
+3620,44,Female,North Carolina,No,50,Venmo,7
+3626,44,Female,Illinois,No,32,PayPal,7
+3628,39,Female,Delaware,No,48,Cash,1
+3638,32,Female,Utah,No,32,Credit Card,6
+3639,40,Female,Kansas,No,50,PayPal,5
+3640,26,Female,Illinois,No,39,Venmo,2
+3646,38,Female,Colorado,No,31,Credit Card,1
+3649,31,Female,New York,No,45,Cash,5
+3660,27,Female,Illinois,No,46,Bank Transfer,2
+3670,25,Female,Washington,No,43,PayPal,3
+3674,32,Female,Rhode Island,No,31,Bank Transfer,6
+3675,35,Female,Washington,No,41,Venmo,6
+3678,32,Female,Michigan,No,43,Cash,2
+3681,22,Female,Iowa,No,30,Debit Card,3
+3682,26,Female,Connecticut,No,33,Debit Card,4
+3683,42,Female,Wyoming,No,46,Venmo,5
+3685,29,Female,Pennsylvania,No,47,Credit Card,5
+3688,34,Female,Arkansas,No,28,Bank Transfer,1
+3709,40,Female,South Carolina,No,41,PayPal,4
+3710,31,Female,Utah,No,27,PayPal,3
+3715,18,Female,New York,No,35,Credit Card,7
+3719,36,Female,Tennessee,No,44,Bank Transfer,5
+3730,28,Female,Rhode Island,No,50,Cash,3
+3733,36,Female,Indiana,No,28,PayPal,2
+3735,38,Female,California,No,33,Debit Card,1
+3736,38,Female,Massachusetts,No,29,PayPal,2
+3738,19,Female,Kentucky,No,43,PayPal,5
+3739,34,Female,Delaware,No,48,Cash,6
+3740,38,Female,Idaho,No,43,Credit Card,7
+3741,42,Female,Virginia,No,26,Debit Card,5
+3745,24,Female,New Jersey,No,26,Bank Transfer,6
+3748,26,Female,Rhode Island,No,32,Bank Transfer,5
+3750,24,Female,Alaska,No,38,Venmo,1
+3753,24,Female,Washington,No,43,Venmo,7
+3760,44,Female,Missouri,No,30,Venmo,3
+3764,27,Female,Oklahoma,No,38,Cash,1
+3771,23,Female,Montana,No,34,Bank Transfer,7
+3772,21,Female,Oklahoma,No,28,Venmo,5
+3773,44,Female,New Hampshire,No,35,Cash,2
+3774,25,Female,Wisconsin,No,41,Cash,3
+3776,41,Female,South Dakota,No,45,Cash,3
+3779,25,Female,South Dakota,No,30,Debit Card,2
+3783,40,Female,Alabama,No,42,PayPal,6
+3788,37,Female,New York,No,46,PayPal,1
+3789,43,Female,Kansas,No,27,Debit Card,4
+3791,27,Female,Alaska,No,31,Credit Card,7
+3795,44,Female,South Dakota,No,27,Venmo,7
+3797,40,Female,Utah,No,47,Bank Transfer,3
+3802,26,Female,Kentucky,No,36,PayPal,6
+3805,37,Female,Florida,No,45,Cash,2
+3807,18,Female,Missouri,No,41,PayPal,7
+3808,38,Female,Michigan,No,36,PayPal,2
+3817,29,Female,Maryland,No,45,Credit Card,6
+3820,36,Female,Arkansas,No,45,Cash,3
+3821,34,Female,New Hampshire,No,34,Debit Card,3
+3822,20,Female,Oregon,No,34,Credit Card,1
+3831,22,Female,Pennsylvania,No,33,Bank Transfer,1
+3843,35,Female,Colorado,No,42,Debit Card,4
+3845,30,Female,Montana,No,40,Venmo,3
+3849,22,Female,New Hampshire,No,39,Cash,1
+3856,40,Female,Illinois,No,36,Cash,3
+3858,42,Female,Texas,No,29,Credit Card,1
+3859,30,Female,Missouri,No,26,Credit Card,3
+3864,40,Female,New Hampshire,No,28,Cash,6
+3866,25,Female,Nebraska,No,28,Cash,1
+3870,26,Female,Arizona,No,28,Bank Transfer,2
+3878,28,Female,Nevada,No,46,Debit Card,4
+3881,42,Female,Massachusetts,No,40,PayPal,4
+3887,37,Female,Iowa,No,40,Debit Card,3
+3891,35,Female,Nebraska,No,33,Debit Card,2
+3894,21,Female,Massachusetts,No,29,Bank Transfer,5
+3896,40,Female,Virginia,No,32,Venmo,7
